@@ -20,6 +20,7 @@
   <project path="device/custom/sepolicy" name="PixelOS-AOSP/android_device_custom_sepolicy" remote="github" />
   <project path="axion-sdk" name="Lunaris-AOSP/axion-sdk" revision="16.2" remote="github" />
   <project path="external/FadingEdgeLayout" name="Lunaris-AOSP/external_FadingEdgeLayout" revision="16" remote="github" />
+  <project path="packages/services/AxQuickLook" name="Lunaris-AOSP/packages_services_AxQuickLook" revision="16.2" remote="github" />
   <project path="external/avb" name="PixelOS-AOSP/android_external_avb" groups="pdk" remote="github" />
   <project path="external/bouncycastle" name="PixelOS-AOSP/android_external_bouncycastle" groups="pdk" remote="github" />
   <project path="external/dtc" name="PixelOS-AOSP/android_external_dtc" groups="pdk" remote="github" />
